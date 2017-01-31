@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
-10000000000
+-17.6
  20
-10000000000
+-17.6
  30
 0
   9
 $EXTMAX
  10
--10000000000
+167.5
  20
--10000000000
+99.8
  30
 0
   9
@@ -775,9 +775,9 @@ $MAXACTVP
   9
 $PINSBASE
  10
-73.55000000000001
+38.36277687736359
  20
-64.11012594690509
+44.60453808752024
  30
 0
   9
@@ -913,7 +913,7 @@ $EXTNAMES
   9
 $PSVPSCALE
  40
-1
+1.46948
   9
 $OLESTARTUP
 290
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-171.6252239798454
+171.7693978608254
  22
-92.86388088211788
+93.06477022363046
  13
 0
  23
@@ -1151,7 +1151,7 @@ AcDbViewportTableRecord
  40
 277.2612145534866
  41
-1.936660268714012
+2.00996015936255
  42
 50
  43
@@ -2272,6 +2272,10 @@ CONTINUOUS
     0
 390
 F
+1001
+LibreCad
+1070
+    1
   0
 LAYER
   5
@@ -2375,7 +2379,7 @@ AcDbLayerTableRecord
   2
 6holes
  70
-    1
+    0
  62
   255
 420
@@ -2399,7 +2403,7 @@ AcDbLayerTableRecord
   2
 7legend
  70
-    1
+    0
  62
   255
 420
@@ -5506,6 +5510,342 @@ AcDbCircle
 23.35
  40
 14.3
+  0
+POINT
+  5
+BA
+100
+AcDbEntity
+  8
+1axes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPoint
+ 10
+18.7
+ 20
+58.85
+  0
+POINT
+  5
+BB
+100
+AcDbEntity
+  8
+1axes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPoint
+ 10
+56.2
+ 20
+58.85
+  0
+POINT
+  5
+BC
+100
+AcDbEntity
+  8
+1axes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPoint
+ 10
+93.7
+ 20
+58.85
+  0
+POINT
+  5
+BD
+100
+AcDbEntity
+  8
+1axes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPoint
+ 10
+131.2
+ 20
+58.85
+  0
+POINT
+  5
+BE
+100
+AcDbEntity
+  8
+1axes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPoint
+ 10
+18.7
+ 20
+23.35
+  0
+POINT
+  5
+BF
+100
+AcDbEntity
+  8
+1axes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPoint
+ 10
+56.2
+ 20
+23.35
+  0
+POINT
+  5
+C0
+100
+AcDbEntity
+  8
+1axes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPoint
+ 10
+93.7
+ 20
+23.35
+  0
+POINT
+  5
+C1
+100
+AcDbEntity
+  8
+1axes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPoint
+ 10
+131.2
+ 20
+23.35
+  0
+CIRCLE
+  5
+C2
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+18.7
+ 20
+58.85
+ 40
+1
+  0
+CIRCLE
+  5
+C3
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+56.2
+ 20
+58.85
+ 40
+1
+  0
+CIRCLE
+  5
+C4
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+93.7
+ 20
+58.85
+ 40
+1
+  0
+CIRCLE
+  5
+C5
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+131.2
+ 20
+58.85
+ 40
+1
+  0
+CIRCLE
+  5
+C6
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+131.2
+ 20
+23.35
+ 40
+1
+  0
+CIRCLE
+  5
+C7
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+93.7
+ 20
+23.35
+ 40
+1
+  0
+CIRCLE
+  5
+C8
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+56.2
+ 20
+23.35
+ 40
+1
+  0
+CIRCLE
+  5
+C9
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+18.7
+ 20
+23.35
+ 40
+1
   0
 ENDSEC
   0

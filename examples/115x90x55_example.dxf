@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--12.8
+10000000000
  20
--12.8
+10000000000
  30
 0
   9
 $EXTMAX
  10
-93.3
+-10000000000
  20
-118.4
+-10000000000
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-7legend
+6holes
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-88.96200137135803
+56.39398548002153
  22
-62.53224904969883
+48.57556387303524
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-141.957741851386
+72.68236382790965
  41
-1.936660268714012
+2.00996015936255
  42
 50
  43
@@ -2257,7 +2257,7 @@ AcDbLayerTableRecord
   2
 1axes
  70
-    1
+    0
  62
     7
   6
@@ -5867,6 +5867,116 @@ standard
  73
     2
  44
+1
+  0
+CIRCLE
+  5
+CD
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+11
+ 20
+46
+ 40
+1
+  0
+CIRCLE
+  5
+CE
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+36
+ 20
+46
+ 40
+1
+  0
+CIRCLE
+  5
+CF
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+11
+ 20
+23
+ 40
+1
+  0
+CIRCLE
+  5
+D0
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+36
+ 20
+23
+ 40
+1
+  0
+CIRCLE
+  5
+D1
+100
+AcDbEntity
+  8
+6holes
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+65.45
+ 20
+34.5
+ 40
 1
   0
 ENDSEC
